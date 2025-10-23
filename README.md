@@ -1,1 +1,1 @@
-# 927622bad018
+# Stock price prediction analytical Dashboard
